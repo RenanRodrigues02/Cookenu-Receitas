@@ -1,70 +1,121 @@
-# Getting Started with Create React App
+<h1 align="">
+   :bento: Cookenu Receitas
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img width="350px" src="src/assets/logo.jpg">
+</h1>
 
-## Available Scripts
+<h3 align="center"> 
+A melhor receita é a sua!
+</h4>
+<h4 align="center">
+ O melhor da culinária Brasileira direto em suas mãos.
+ </h4>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## :spaghetti: Sobre    
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O site <b>Cookenu Receitas</b> é um prato cheio para quem ama receitas práticas, sem perder a sofisticação. É possível consultar os mais variados pratos típicos de diversas regiões do País, trazendo para você, o melhor da culinária Brasileira. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<b>Faça seu cadastro hoje mesmo e aproveite!</b>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##  🧭Status do Projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ :white_check_mark: Concluído.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+##  🎯Objetivo do Projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Este é um projeto Front-end, desenvolvido através do Consumo da [API Cookenu](https://documenter.getpostman.com/view/9133542/U16dQniU), no bootcamp da Labenu, cujos os principais objetivos foram aprofundar diversos fundamentamentos importantes para o desenvolvimento web Front-end, tais como: <b>Consumo de API; Autenticação (Token), Local Storage, Async & Await; useState/useEffect; Hooks/Custom Hooks e React Router.</b>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## ☑️Requisitos de Funcionalidade
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- :white_check_mark: Cadastrar novos Usuários.
+- :white_check_mark: Cadastrar novas Receitas.
+- :white_check_mark: Realizar LOGIN
+- :white_check_mark: Realizar LOGOUT.
+- :white_check_mark: Feed de Receitas.
+- :white_check_mark: Detalhe de cada Receita.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+---
+## :rocket:Tecnologias e Ferramentas utilizadas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- <b>React-JS</b>
+- <b>Consumo de API</b>
+- <b>Autenticação (Token)</b>
+- <b>Local Storage</b>
+- <b>Async & Await</b>
+- <b>useState/useEffect</b>
+- <b>React Router</b>
+- <b>Hooks/Custom Hooks</b>
+- <b>Styled-components</b>
+- <b>Library Material - UI</b>
+- <b>Media Query</b>
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 💻Demonstração
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<h1 align="center">
+    <img src="src/assets/readme/coke1.PNG">
+  <img src="src/assets/readme/coke2.PNG">
+  <img width="1100px" src="src/assets/readme/coke3.PNG">
+</h1>
 
-### Advanced Configuration
+  <h1>
+    :iphone: <b>Mobile</b>
+  </h1>
+  <h1 align="center">
+    <img width="250px" height="500px" src="/src/assets/readme/cookenu-receitas.gif.gif">
+  </h1>
+ 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🔗Link para Acessar
 
-### `npm run build` fails to minify
+- **Link do Surge:** https://decorous-dime.surge.sh/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+
+## :wrench:Rodando o Projeto
+
+Para Rodar o projeto, siga as seguintes etapas :
+
+  ``` bash
+ # Clonar repositório
+  
+  git clone https://github.com/RenanRodrigues02/Cookenu-Receitas
+
+ # Entre no diretório do projeto
+  
+  cd Cookenu-Receitas
+
+ # npm install
+
+ # npm run start
+
+```
+
+## 📝Sobre a Licença
+
+Este projeto esta sobe a licença [MIT](https://github.com/RenanRodrigues02/Cookenu-Receitas/blob/main/LICENSE).
+
+---
+
+ :construction_worker: <h3>Desenvolvido por [Renan Rodrigues](https://www.linkedin.com/in/dev-renan-rodrigues/).</h3>
